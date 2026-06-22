@@ -11,7 +11,7 @@
 
 ## 👤 Project Owner
 
-**Alemdar** — Within the scope of a 19-day internship program, abandoning the traditional "observation log" format, an end-to-end self-hosted ecosystem was built that brings together the disciplines of *Infrastructure Engineering*, *Network Architecture*, and *Site Reliability Engineering (SRE)*.
+**RadmelaSub** — Within the scope of a 19-day internship program, abandoning the traditional "observation log" format, an end-to-end self-hosted ecosystem was built that brings together the disciplines of *Infrastructure Engineering*, *Network Architecture*, and *Site Reliability Engineering (SRE)*.
 
 ---
 
